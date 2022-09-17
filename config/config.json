@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x874704Bc3a5cE34C17Fa50940Bc424B794Cf8B86",
+  "SCAN_LINK": "https://etherscan.io/address/0x874704Bc3a5cE34C17Fa50940Bc424B794Cf8B86",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 	1
+  },
+  "NFT_NAME": "m00n m00se",
+  "SYMBOL": "m00n",
+  "MAX_SUPPLY": 4444,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 145000,
+  "freetokens": 1,
+  "MAX_PER_TX": 2,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
